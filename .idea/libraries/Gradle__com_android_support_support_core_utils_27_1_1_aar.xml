@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:27.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/824ff4ae5f0307982a7b8c90247418d0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/824ff4ae5f0307982a7b8c90247418d0/res" />
+      <root url="file://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/824ff4ae5f0307982a7b8c90247418d0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-utils/27.1.1/8fb37fd2f8dbc23482865700d2c340ae030ea561/support-core-utils-27.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

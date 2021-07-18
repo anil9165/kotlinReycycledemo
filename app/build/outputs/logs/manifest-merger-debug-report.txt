@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24afe5321f240be38309144fe7d6451b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ea0bea208e88451b09f9d9de9d1c25b3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbeddd03551987a946fecc69e5213899\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\06c10709205ece8a389dfda8f7e74582\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7af50eaa48fef22e37a379920e413c57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd80a20843b71a77378f6eced501bbfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\824ff4ae5f0307982a7b8c90247418d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\714d8555e41eedf44a6488feb467af4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\e5667fb10256ac1d580fe4e16810b30a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6010dc0a3a72b00bbd68d4c98e9c4680\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d17b9266cc5e38a7b148827bac63f19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\41b68f66db4a3aa54a2d246d64a28c2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c51aa58e7bfafd1a6c30ce7b46e7edb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\562edd696c6e063adfedddb56d131bab\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ea0bea208e88451b09f9d9de9d1c25b3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ea0bea208e88451b09f9d9de9d1c25b3\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:13:9-40
+activity#co.anilplantix.MainActivity
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24afe5321f240be38309144fe7d6451b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24afe5321f240be38309144fe7d6451b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ea0bea208e88451b09f9d9de9d1c25b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ea0bea208e88451b09f9d9de9d1c25b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbeddd03551987a946fecc69e5213899\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbeddd03551987a946fecc69e5213899\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\06c10709205ece8a389dfda8f7e74582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\06c10709205ece8a389dfda8f7e74582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7af50eaa48fef22e37a379920e413c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7af50eaa48fef22e37a379920e413c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd80a20843b71a77378f6eced501bbfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd80a20843b71a77378f6eced501bbfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\824ff4ae5f0307982a7b8c90247418d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\824ff4ae5f0307982a7b8c90247418d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\714d8555e41eedf44a6488feb467af4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\714d8555e41eedf44a6488feb467af4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\e5667fb10256ac1d580fe4e16810b30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\e5667fb10256ac1d580fe4e16810b30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6010dc0a3a72b00bbd68d4c98e9c4680\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6010dc0a3a72b00bbd68d4c98e9c4680\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d17b9266cc5e38a7b148827bac63f19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d17b9266cc5e38a7b148827bac63f19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\41b68f66db4a3aa54a2d246d64a28c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\41b68f66db4a3aa54a2d246d64a28c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c51aa58e7bfafd1a6c30ce7b46e7edb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5c51aa58e7bfafd1a6c30ce7b46e7edb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\562edd696c6e063adfedddb56d131bab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\562edd696c6e063adfedddb56d131bab\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anil\Desktop\AnilPlantix\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Anil\Desktop\videoEdit\Avshort\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\97ecb70addfc6a5e6a56e2906a542e18\AndroidManifest.xml:9:13-64

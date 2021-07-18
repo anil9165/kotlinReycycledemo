@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:exifinterface:27.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e5667fb10256ac1d580fe4e16810b30a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e5667fb10256ac1d580fe4e16810b30a/res" />
+      <root url="file://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e5667fb10256ac1d580fe4e16810b30a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../videoEdit/Avshort/.gradle/caches/modules-2/files-2.1/com.android.support/exifinterface/27.1.0/c7140902caa70b53159e0f153c0584bbbbc88eb7/exifinterface-27.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
